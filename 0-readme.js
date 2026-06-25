@@ -1,6 +1,4 @@
-#!/usr/bin/node
-// Read and print the content of a file using the fs module
-const fs = require('fs');
+t fs = require('fs');
 
 // First argument is the file path
 const filePath = process.argv[2];
